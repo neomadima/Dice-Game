@@ -1,0 +1,7 @@
+C:\Users\neoMadima\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\neoMadima\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\neoMadima\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\neoMadima\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+C:\Users\neoMadima\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\neoMadima\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\neoMadima\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
